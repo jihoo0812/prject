@@ -36,7 +36,7 @@ st.markdown("""
 <header>
     <img src="https://via.placeholder.com/150" alt="프로필 사진" class="profile-img">
     <h1>안녕하세요, 전지후입니다 👋</h1>
-    <p class="subtitle">새로운 도전을 즐기는 주니어 개발자</p>
+    <p class="subtitle">방배중학생</p>
 </header>
 """, unsafe_allow_html=True)
 
@@ -44,7 +44,7 @@ st.markdown("""
 st.markdown("""
 <section class="about">
     <h2>About Me</h2>
-    <p>방배중학교에 다니고 있습니다. 최근에는 게임을 좋아합니다.</p>
+    <p>방배중학교에 다니고 있습니다.게임을 하는것을 좋아합니다.</p>
 </section>
 """, unsafe_allow_html=True)
 
